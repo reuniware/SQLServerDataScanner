@@ -11,9 +11,7 @@ namespace SQLServerDataScan
     class Program
     {
         /// <summary>
-        /// Reunisoft R&D - Tropical Security Tools - IO/ESG
-        /// Email : reunisoft@gmail.com
-        /// Contact me for any projects mainly in Paris and France, but also anywhere in the world !
+        /// Email : investdatasystems@yahoo.com
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
